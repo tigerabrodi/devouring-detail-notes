@@ -169,6 +169,6 @@ function onPointerUp(e) {
 
 # When to Use Libraries vs Custom
 
-- **Use libraries** (`@use-gesture/react`) for most cases - they handle edge cases
+- **Use libraries** (`@use-gesture/react`) for most cases -> they handle edge cases
 - **Custom implementation** when external dependencies don't make sense (Next.js Dev Tools example)
 - Understanding library internals helps with custom implementations
